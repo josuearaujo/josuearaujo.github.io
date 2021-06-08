@@ -16,19 +16,19 @@ const Contact: React.FC = () => (
         <h1>Let&apos;s get in touch!</h1>
 
         <ContactInformation>
-          <a href="teste">
+          <a href="https://www.linkedin.com/in/araujo-josue">
             <IconWithName src={linkedinLogo} alt="Linkedin">
               Linkedin
             </IconWithName>
           </a>
 
-          <a href="teste">
+          <a href="https://github.com/josuearaujo">
             <IconWithName src={githubLogo} alt="Github">
               Github
             </IconWithName>
           </a>
 
-          <a href="teste">
+          <a href="https://www.instagram.com/josuearauj/">
             <IconWithName src={instagramLogo} alt="Instagram">
               Instagram
             </IconWithName>
