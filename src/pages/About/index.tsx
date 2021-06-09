@@ -18,14 +18,15 @@ const About: React.FC = () => (
               graduated from UFRN.
             </p>
             <p>
-              Since the internships that I did during my graduation, I always
-              looked for learn more about the world of development. Having
-              experience with infrastrucutre tools like Docker and Nginx, as
-              well as developing in different programming languages.
+              Since the internships that I&apos;ve made during my graduate,
+              I&apos;ve always looked for improve my knowledge about the
+              development world. I&apos;ve worked using infrastructure tools
+              like Docker and Nginx, as well as developing in differents
+              programming languages.
             </p>
             <p>
-              Nowadays I&apos;m focused on increasing my knowledge in the
-              javascript stack. Using node in backend and react in frontend.
+              Nowadays I&apos;m focused on increase my knowledge in the
+              javascript stack. Using Node in backend and React in frontend.
             </p>
           </AboutText>
         </AboutInfos>
