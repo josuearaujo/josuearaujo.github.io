@@ -24,8 +24,8 @@ export const AboutInfos = styled.div`
 
   > img {
     margin-top: 20px;
-    height: 500px;
-    width: 500px;
+    height: 350px;
+    width: 350px;
     border-radius: 10%;
   }
 `;
