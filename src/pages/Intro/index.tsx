@@ -13,7 +13,7 @@ const Intro: React.FC = () => (
 
       <InfoText>
         <p>Software Engineer from Natal, Brazil</p>
-        <p>Currently living on Montreal, Canada</p>
+        <p>Currently living in Montreal, Canada</p>
       </InfoText>
     </BackgroundImage>
   </Container>
