@@ -14,19 +14,20 @@ const About: React.FC = () => (
 
           <AboutText>
             <p>
-              I am BSc Science and Technology and Computer Engineer, graduated
-              from UFRN.
+              Hi, I am a Computer Engineer and an enthusiast in web development.
+              I have work experience with PHP/Laravel and currently I am
+              transitioning to the Javascript stack, using Node.js/TypeScript
+              and React. Furthermore, I am also skilled in web infrastructure
+              tools such as Docker and Nginx, including CI/CD operations.
             </p>
             <p>
-              Since my first professional experiences, in internships programs
-              performed during my graduation, I have always looked for to
-              improve my knowledge of the development world. I have worked with
-              infrastructure tools like Docker and Nginx and also developed with
-              different programming languages.
+              Since my first professional experiences, including the internships
+              I participated in during my years at the university, I have been
+              working very hard to widen and strengthen my skill set.
             </p>
             <p>
-              Nowadays I am focused on increase my knowledge in javascript stack
-              using Node in backend and React in frontend.
+              Therefore, I am conditioned and highly prone to learning new tools
+              and challenge myself to deliver the best results.
             </p>
           </AboutText>
         </AboutInfos>
