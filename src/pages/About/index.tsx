@@ -14,20 +14,19 @@ const About: React.FC = () => (
 
           <AboutText>
             <p>
-              He&apos;s BSc Science and Technology and Computer Engineer,
-              graduated from UFRN.
+              I am BSc Science and Technology and Computer Engineer, graduated
+              from UFRN.
             </p>
             <p>
-              Since his first professional experiences, in internships programs
-              performed during his graduation, he has always looked for improve
-              his knowledge of the development world. He has worked with
+              Since my first professional experiences, in internships programs
+              performed during my graduation, I have always looked for to
+              improve my knowledge of the development world. I have worked with
               infrastructure tools like Docker and Nginx and also developed with
               different programming languages.
             </p>
             <p>
-              &quot;Nowadays I&apos;m focused on increase my knowledge in
-              javascript stack using Node in backend and React in
-              frontend.&quot;
+              Nowadays I am focused on increase my knowledge in javascript stack
+              using Node in backend and React in frontend.
             </p>
           </AboutText>
         </AboutInfos>

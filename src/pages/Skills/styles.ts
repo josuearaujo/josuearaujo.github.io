@@ -19,19 +19,17 @@ export const Content = styled.div`
     padding: 93px 165px;
     font-size: 24px;
     line-height: 29px;
+
+    @media (max-width: 400px) {
+      padding: 93px 50px;
+    }
   }
 `;
 
 export const SkillsContent = styled.div`
-  min-width: 300px;
+  min-width: 250px;
   width: 60%;
   margin: auto auto;
   flex: 5;
   padding-top: 100px;
-  /* align-self: center;
-  justify-self: center; */
-  /* height: 100%; */
-  /* padding-top: 100px; */
-  /* margin: auto;
-  padding: auto; */
 `;

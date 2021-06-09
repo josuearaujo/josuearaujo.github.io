@@ -19,6 +19,10 @@ export const Content = styled.div`
     padding-top: 93px;
     font-size: 24px;
     line-height: 29px;
+
+    @media (max-width: 400px) {
+      padding: 93px 50px;
+    }
   }
 `;
 
@@ -29,8 +33,10 @@ export const ContactInformation = styled.div`
   align-items: flex-start;
   justify-content: space-evenly;
   margin: auto;
+  flex-wrap: wrap;
 
   > a {
     text-decoration: none;
+    margin: 0 5px;
   }
 `;

@@ -7,7 +7,7 @@ const Intro: React.FC = () => (
     <BackgroundImage>
       <Element name="intro">
         <MainText>
-          <p>Hi, It&apos;s Josué Araújo</p>
+          <p>Hello, I&apos;m Josué Araújo</p>
         </MainText>
       </Element>
 
