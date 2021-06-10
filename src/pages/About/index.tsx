@@ -21,9 +21,9 @@ const About: React.FC = () => (
               tools such as Docker and Nginx, including CI/CD operations.
             </p>
             <p>
-              Since my first professional experiences, including the internships
-              I participated in during my years at the university, I have been
-              working very hard to widen and strengthen my skill set.
+              Since my first professional experiences, including part-time jobs
+              during my years at the university, I have been working very hard
+              to widen and strengthen my skill set.
             </p>
             <p>
               Therefore, I am conditioned and highly prone to learning new tools
