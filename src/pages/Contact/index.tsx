@@ -34,13 +34,13 @@ const Contact: React.FC = () => (
             </IconWithName>
           </a>
 
-          <a href="mailto: josue22595@hotmail.com">
+          <a href="mailto: engjosuearaujo@gmail.com">
             <IconWithName src={emailLogo} alt="E-mail">
               E-mail
             </IconWithName>
           </a>
 
-          <a href="https://wa.me/5584997086212">
+          <a href="https://wa.me/14385307406">
             <IconWithName src={wppLogo} alt="WhatsApp">
               WhatsApp
             </IconWithName>
